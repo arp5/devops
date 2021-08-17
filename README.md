@@ -4,6 +4,7 @@ I am an MTS3 software developer working at NetApp. I live in cary, NC.
 
 ##### Image:
 ![img](musicalTree.jpg)
+
 ##### Skills:
 * I can play bansuri and am well versed in hindustani classical music.
 * I am a programmer and can code in python, Java, ruby etc.
